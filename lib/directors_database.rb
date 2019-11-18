@@ -13,4 +13,4 @@ directors_totals = ["Stephen Spielberg"=>1357566430,
         "Robert Zemeckis"=>1273838385,
         "Quentin Tarantino"=>662738268,
         "Martin Scorsese"=>636812242,
-        "Francis Ford Coppola"=>509719258]
+        "Francis Ford Coppola"=>509719258].sum
